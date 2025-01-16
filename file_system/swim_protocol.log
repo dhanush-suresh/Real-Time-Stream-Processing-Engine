@@ -1,0 +1,14 @@
+Nov 10, 2024 6:19:40 PM com.file_system.FileSystem <init>
+INFO: FileSystem initialized for node: 486a9f77621a24ac683d636b2faea38c9c52ae95
+Nov 10, 2024 6:19:41 PM com.file_system.FileSystem joinIntroducer
+INFO: Attempting to join group through introducer: 127.0.0.1:6001
+Nov 10, 2024 6:19:41 PM com.file_system.FileSystem processInputMessage
+INFO: Received membership list. Size: 1
+Nov 10, 2024 6:19:41 PM com.file_system.FileSystem joinIntroducer
+INFO: Successfully joined group
+Nov 10, 2024 6:19:41 PM com.file_system.FileSystem startServer
+INFO: Starting the server for node: 486a9f77621a24ac683d636b2faea38c9c52ae95
+Nov 10, 2024 6:19:41 PM com.file_system.FileSystem startProtocol
+INFO: Protocol started for node: 486a9f77621a24ac683d636b2faea38c9c52ae95
+Nov 10, 2024 6:19:41 PM com.file_system.FileSystem main
+INFO: FileSystem main method completed initialization

@@ -1,0 +1,62 @@
+Dec 01, 2024 7:59:29 PM com.file_system.RainStorm <init>
+INFO: RainStorm initialized for node: a164e6f50dec7a0d36e3a8c590530a617b2ca358
+Dec 01, 2024 7:59:29 PM com.file_system.RainStorm joinIntroducer
+INFO: Attempting to join group through introducer: 127.0.0.1:6001
+Dec 01, 2024 7:59:30 PM com.file_system.RainStorm processInputMessage
+INFO: Received membership list. Size: 1
+Dec 01, 2024 7:59:30 PM com.file_system.RainStorm joinIntroducer
+INFO: Successfully joined group
+Dec 01, 2024 7:59:30 PM com.file_system.RainStorm startProtocol
+INFO: Protocol started for node: a164e6f50dec7a0d36e3a8c590530a617b2ca358
+Dec 01, 2024 7:59:30 PM com.file_system.RainStorm main
+INFO: RainStorm main method completed initialization
+Dec 01, 2024 7:59:30 PM com.file_system.RainStorm startServer
+INFO: Starting the server for node: a164e6f50dec7a0d36e3a8c590530a617b2ca358
+Dec 01, 2024 8:02:28 PM com.file_system.RainStorm <init>
+INFO: RainStorm initialized for node: a164e6f50dec7a0d36e3a8c590530a617b2ca358
+Dec 01, 2024 8:02:28 PM com.file_system.RainStorm joinIntroducer
+INFO: Attempting to join group through introducer: 127.0.0.1:6001
+Dec 01, 2024 8:02:28 PM com.file_system.RainStorm processInputMessage
+INFO: Received membership list. Size: 1
+Dec 01, 2024 8:02:28 PM com.file_system.RainStorm joinIntroducer
+INFO: Successfully joined group
+Dec 01, 2024 8:02:28 PM com.file_system.RainStorm startServer
+INFO: Starting the server for node: a164e6f50dec7a0d36e3a8c590530a617b2ca358
+Dec 01, 2024 8:02:28 PM com.file_system.RainStorm startProtocol
+INFO: Protocol started for node: a164e6f50dec7a0d36e3a8c590530a617b2ca358
+Dec 01, 2024 8:02:28 PM com.file_system.RainStorm main
+INFO: RainStorm main method completed initialization
+Dec 01, 2024 8:03:00 PM com.file_system.RainStorm <init>
+INFO: RainStorm initialized for node: a164e6f50dec7a0d36e3a8c590530a617b2ca358
+Dec 01, 2024 8:03:00 PM com.file_system.RainStorm joinIntroducer
+INFO: Attempting to join group through introducer: 127.0.0.1:6001
+Dec 01, 2024 8:03:01 PM com.file_system.RainStorm processInputMessage
+INFO: Received membership list. Size: 1
+Dec 01, 2024 8:03:01 PM com.file_system.RainStorm joinIntroducer
+INFO: Successfully joined group
+Dec 01, 2024 8:03:01 PM com.file_system.RainStorm startServer
+INFO: Starting the server for node: a164e6f50dec7a0d36e3a8c590530a617b2ca358
+Dec 01, 2024 8:03:01 PM com.file_system.RainStorm startProtocol
+INFO: Protocol started for node: a164e6f50dec7a0d36e3a8c590530a617b2ca358
+Dec 01, 2024 8:03:01 PM com.file_system.RainStorm main
+INFO: RainStorm main method completed initialization
+Dec 01, 2024 8:03:20 PM com.file_system.RainStorm <init>
+INFO: RainStorm initialized for node: a164e6f50dec7a0d36e3a8c590530a617b2ca358
+Dec 01, 2024 8:03:20 PM com.file_system.RainStorm joinIntroducer
+INFO: Attempting to join group through introducer: 127.0.0.1:6001
+Dec 01, 2024 8:03:20 PM com.file_system.RainStorm processInputMessage
+INFO: Received membership list. Size: 1
+Dec 01, 2024 8:03:20 PM com.file_system.RainStorm joinIntroducer
+INFO: Successfully joined group
+Dec 01, 2024 8:03:20 PM com.file_system.RainStorm startServer
+INFO: Starting the server for node: a164e6f50dec7a0d36e3a8c590530a617b2ca358
+Dec 01, 2024 8:03:20 PM com.file_system.RainStorm startProtocol
+INFO: Protocol started for node: a164e6f50dec7a0d36e3a8c590530a617b2ca358
+Dec 01, 2024 8:03:20 PM com.file_system.RainStorm main
+INFO: RainStorm main method completed initialization
+Dec 01, 2024 8:03:20 PM com.file_system.RainStorm processInputMessage
+INFO: Received membership list. Size: 3
+Dec 01, 2024 8:03:24 PM com.file_system.RainStorm selectKNeighbours
+FINE: Nodes Selected to PING []
+Dec 01, 2024 8:03:28 PM com.file_system.RainStorm selectKNeighbours
+FINE: Nodes Selected to PING []
