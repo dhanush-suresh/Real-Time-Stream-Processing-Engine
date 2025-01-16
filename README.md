@@ -4,15 +4,15 @@
 This project implements a file system management system with a specific focus on handling RainStorm-related data processing. It's built in Java and provides functionality for managing and processing file system operations.
 
 ## Project Structure
-file_system/
-├── src/
-│ └── main/
-│ └── java/
-│ └── com/
-│ └── file_system/
-│ └── RainStorm.java
-├── data_storage/
-│ └── local_file/
+file_system/<br />
+── src/<br />
+  └── main/ <br />
+  └── java/ <br />
+  └── com/ <br />
+  └── file_system/ <br />
+  └── RainStorm.java <br />
+── data_storage/ <br />
+  └── local_file/<br /> 
 
 ## Features
 - File system operations handling
